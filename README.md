@@ -136,6 +136,7 @@ docker pull ghcr.io/mostlygeek/llama-swap:cpu
 docker pull ghcr.io/mostlygeek/llama-swap:cuda
 docker pull ghcr.io/mostlygeek/llama-swap:vulkan
 docker pull ghcr.io/mostlygeek/llama-swap:intel
+docker pull ghcr.io/mostlygeek/llama-swap:openvino
 docker pull ghcr.io/mostlygeek/llama-swap:musa
 
 # tagged llama-swap, platform and llama-server version images
